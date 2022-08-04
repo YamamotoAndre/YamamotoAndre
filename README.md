@@ -1,5 +1,6 @@
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+Ola sou o <strong>Andre Yamamoto</strong>, e estou começando nesse mundo criador de conteúdo de programação!
+Sou formado em engenharia Quimica, porem descobri um novo amor pela programação, com foco em <strong>Front-End</strong>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
