@@ -18,14 +18,14 @@ Sou formado em engenharia Quimica, porem descobri um novo amor pela programaçã
 <table>
 <tr><td>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+  <a href="https://github.com/YamamotoAndre/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YamamotoAndre&show_icons=true&theme=blue-green" />
   </a>
 
 </td><td>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+  <a href="https://github.com/YamamotoAndre/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamamotoAndre&layout=compact&theme=blue-green" />
   </a>
 
 </td></tr>
