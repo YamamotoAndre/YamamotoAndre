@@ -2,6 +2,7 @@
 Ola sou o <strong>Andre Yamamoto</strong>, e estou começando nesse mundo criador de conteúdo de programação!
 Sou formado em engenharia Quimica, porem descobri um novo amor pela programação, com foco em <strong>Front-End</strong>
 
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Yamamoto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +14,22 @@ Sou formado em engenharia Quimica, porem descobri um novo amor pela programaçã
   <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div>
   
-  ##
+## GitHub Stats
+<table>
+<tr><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+  </a>
+
+</td><td>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+  </a>
+
+</td></tr>
+</table>
  
 <div> 
   <a href="https://www.instagram.com/andreyamamotoh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
